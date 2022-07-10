@@ -1,2 +1,3 @@
 Do commits use associate with my GitHub account?
 Does it just use string matching?
+Looks like my email address didn't match exactly. Lets try again.
